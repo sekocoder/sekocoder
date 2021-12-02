@@ -1,4 +1,4 @@
-- ^____^ Hello there, I’m Sekoshita
+# Hello there, I’m Siddharth
 - (●'◡'●)  I’m interested in android developement
 - (⌐■_■)  I’m currently learning data structures and algorithms 
 - (☞ﾟヮﾟ)☞ You can reach me through my mail id sekocoder@gmail.com
