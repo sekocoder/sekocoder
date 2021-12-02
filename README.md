@@ -1,4 +1,4 @@
-# Hello there, I’m Siddharth
+# Hello there! I am Siddharth
 - (●'◡'●)  I’m interested in android developement
 - (⌐■_■)  I’m currently learning data structures and algorithms 
 - (☞ﾟヮﾟ)☞ You can reach me through my [LinkedIn](https://www.linkedin.com/in/siddharth-singh-ab931a200/)
